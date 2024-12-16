@@ -2,15 +2,19 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Rafael Furtado Morais, tenho 23 anos e sou natural de Minas Gerais. Conclui meu ensino médio no IF, com o curso de **Tecnico em Informática**. Atualmente estou cursando Bacharel em Ciência da Computação na UFLA. Tenho interesse em desenvolvimento Web e Mobile e sou apaixonado por tecnologia e inovação, descobrir coisas novas, ampliar meus conhecimentos e trabalhar em diversas áreas são as principais caractéristicas que me motivam a sempre estar estudando sobre. As tecnologias que utilizo no meu dia são JavaScript, PHP, Vue 3 e Laravel.
+<br>
 
-## 🌐 Minhas Redes 
+Me chamo Rafael Furtado Morais, tenho 23 anos e sou natural de Minas Gerais. Conclui meu ensino médio no IF, com o curso de **Tecnico em Informatica**. Atualmente estou cursando **Bacharel em Ciência da Computação** na UFLA. Tenho interesse em desenvolvimento Web e Mobile e sou apaixonado por tecnologia e inovação, descobrir coisas novas, ampliar meus conhecimentos e trabalhar em diversas áreas são as principais caractéristicas que me motivam a sempre estar estudando sobre. As tecnologias que utilizo no meu dia são JavaScript, PHP, Vue 3 e Laravel.
+
+## 🌐 Minhas Redes
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-morais-software-developer/)
 
+<br>
 
+## 📜 Tecnologias que uso
 
-### 📜 Tecnologias que uso
+<br>
 
 <div style="display: inline_block">
 
@@ -24,34 +28,16 @@ Me chamo Rafael Furtado Morais, tenho 23 anos e sou natural de Minas Gerais. Con
   
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 
-  <img align="center" alt="Typescript" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img align="center" alt="Typescript" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" target="_blank"/>
   
 </div>
 
----
 
+<br>
 
+## 🤖 Estatística
 
-![zSchwi GitHub stats](https://github-readme-stats.vercel.app/api?username=zSchwi&show_icons=true&theme=radical)
+<br>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={zSchwi}&theme=blue-green
+![zSchwi GitHub stats](https://github-readme-stats.vercel.app/api?username=zSchwi&show_icons=true&theme=radical&include_all_comits=true)
 
-
-
-
-
-
-<!--
-**zSchwi/zSchwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
