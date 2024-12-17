@@ -54,12 +54,15 @@ Me chamo Rafael Furtado Morais, tenho 23 anos e sou natural de Minas Gerais. Con
       width="360"
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSchwi&show_icons=true&theme=radical&include_all_comits=true&layout=compact&custom_title=Tecnologias"
-    />
-   
+    /> 
     
 </div>
 
-![Snake animation](hhtps
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zSchwi/zSchwi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zSchwi/zSchwi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zSchwi/zSchwi/output/github-snake-dark.svg" />
+</picture>
   
 
 
