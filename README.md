@@ -1,3 +1,6 @@
+<img src="banner_github.png" style="width:1000px;" />
+
+
 # 👨🏻‍💻 Rafael Furtado Morais 👋
 
 **`Desenvolvedor FullStack`**
