@@ -39,7 +39,7 @@ Me chamo Rafael Furtado Morais, tenho 23 anos e sou natural de Minas Gerais. Con
 
 <br>
 
-<p>
+<div>
   
   <img
       align="left"
@@ -57,8 +57,9 @@ Me chamo Rafael Furtado Morais, tenho 23 anos e sou natural de Minas Gerais. Con
     />
    
     
-  </p>
-  
+</div>
+
+![Snake animation](hhtps
   
 
 
